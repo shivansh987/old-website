@@ -1,9 +1,9 @@
 title: "Cycle.js"
 author: "Andre Staltz"
-description: "A functional and reactive JavaScript framework for predictable code"
-more: "read more"
+description: "A Functional And Reactive JavaScript Framework For Predictable Code"
+more: "Read More"
 url: "http://cycle.js.org/"
-permalink: none
+permalink: None
 
 excerpt_separator: "\n\n\n"
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
